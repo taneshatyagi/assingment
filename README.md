@@ -12,11 +12,10 @@ Video management frontend web application in ReactJS
 8. There is a separate tab called history which lists the mp3/mp4 links that have
 played i.e the card name, the link and the time it was played
 
-# Tech stack
-1. React
-2. Redux
-3. React Router
-4. MUI
+Tech stack
+1. Frontend: React, Redux, React Router, UI library of your preference (Preferably Antd) ,Redux Middleware's (e.g. Thunk)
+2. Backend: create and use a json server
+3. Any additional stack/tools as per your preference.
 
 # Live Site
 - https://luxury-kitsune-5e8219.netlify.app/
